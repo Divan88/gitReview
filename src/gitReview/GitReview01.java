@@ -3,8 +3,10 @@ package gitReview;
 public class GitReview01 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
+		
+		System.out.println("I am learning git");
+        System.out.println("today is extremely hot");
+	    System.out.println(" it is so so hot");
+	 }
 
 }
